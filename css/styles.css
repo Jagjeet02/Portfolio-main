@@ -985,6 +985,9 @@ input {
   font-size: 2em;
   margin: 0% 20px;
 }
+/* #linkedin{
+  background-color: white;
+} */
 
 @media (max-width: 720px) {
   .footer {
