@@ -136,6 +136,11 @@ html {
   margin-top: 10px;
   margin-right: 20px;
   transition: transform 0.5s;
+  
+.learn_more{
+  text-decoration: none;
+  color: black;
+}
 }
 
 #resume:hover,
