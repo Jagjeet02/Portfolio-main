@@ -509,6 +509,7 @@ p {
 /* CARD COMPONENT */
 
 .card-box {
+  cursor: pointer;
   display: grid;
   place-items: center;
   max-width: 340px;
@@ -537,7 +538,6 @@ p {
   flex-direction: column;
   justify-content: space-between;
   align-self: flex-end;
-  height: 55%;
   padding: 12% 1.25rem 1.875rem;
   background: linear-gradient(
     180deg,
