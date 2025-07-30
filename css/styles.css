@@ -963,7 +963,6 @@ input {
 }
 
 #last-part {
-  /* margin: 0; */
   overflow-x: hidden;
   padding: 0;
 }
